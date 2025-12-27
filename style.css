@@ -1,0 +1,32 @@
+form {
+  max-width: 400px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+form input, form textarea {
+  margin: 0.5rem 0;
+  padding: 0.7rem;
+}
+
+form button {
+  background: #ffb703;
+  border: none;
+  padding: 0.8rem;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.whatsapp {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: #25D366;
+  color: #fff;
+  font-size: 2rem;
+  padding: 0.7rem 1rem;
+  border-radius: 50%;
+  text-decoration: none;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
