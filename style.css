@@ -18,11 +18,10 @@ form button {
   cursor: pointer;
 }
 
-<style>
 body{
 background-color: lightblue;
 }
-</style>
+
 
 .whatsapp {
   position: fixed;
