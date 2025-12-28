@@ -21,6 +21,18 @@ form button {
 body{
 background-color: red;
 }
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 10%;
+}
+
+.logo img {
+  height: 50px;
+  width: auto;
+}
+
 
 
 .whatsapp {
@@ -194,3 +206,4 @@ h2 {
     font-size: 2.3rem;
   }
 }
+
